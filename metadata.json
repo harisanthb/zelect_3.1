@@ -1,0 +1,6 @@
+{
+  "name": "ZELECT - Photo Gallery",
+  "description": "A web application for creating and sharing beautiful, interactive photo and video selection galleries from Google Drive folders. Clients can easily browse and mark their favorites.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
